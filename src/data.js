@@ -3,7 +3,7 @@ export const projects = [
     title: "PyPass Manager",
     subtitle: "Self Hosted DataBase, Python-Django",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Self Hosted, Python-based Password Manager built with Django. This project is SLIGHTLY SECURE. The login for the website is Username-testuser Password-testuserspassword",
     image: "./images/PyPassManager.png",
     link: "https://py-pass-manager.herokuapp.com/",
     github:"https://github.com/macintushar/PyPassManager",
