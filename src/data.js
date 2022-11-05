@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: "PyPass Manager",
-    subtitle: "Self Hosted DataBase, Python-Django",
+    subtitle: "SQLite DB, Python-Django",
     description:
       "Self Hosted, Python-based Password Manager built with Django. This project is SLIGHTLY SECURE. The login for the website is Username-testuser Password-testuserspassword",
     image: "./images/PyPassManager.png",
@@ -15,16 +15,16 @@ export const projects = [
       "This is a project I made as my Final Project for my School's IP Course. It uses multiple CSV files of various Company's Stock Market data in 2020 to display graphs using Matplotlib. It uses Pandas to organise the data.",
     image: "./images/Stockify.png",
     link: "",
-    github:"github.com/macintushar",
+    github:"https://github.com/macintushar/StockMarket-Analysis",
   },
   {
     title: "RevPass",
-    subtitle: "Twilio API, Random",
+    subtitle: "Twilio SMS API, Python-Random, Python CLI",
     description:
       "This app generates a code for a safe that will be sent to a registered mobile number.",
     image: "./images/RevPass.png",
     link: "",
-    github:"github.com/macintushar",
+    github:"https://github.com/macintushar/RevolvingPassword",
   },
 ];
 
