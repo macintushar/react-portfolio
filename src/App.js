@@ -17,7 +17,8 @@ function App() {
       <About />
       <Podcast />
       <Skills />
-      <Contact />
+      <Contact />   
+      
       <Footer />
     </main>
   );

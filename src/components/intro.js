@@ -3,7 +3,7 @@ import React from "react";
 export default function Intro() {  
   return (
     <section id="intro">
-      <div className="container mx-auto mt-60 flex mb-80 ml-20 mr-20 px-10 py-20 md:flex-row flex-col items-center">
+      <div className="container mx-auto mt-60 flex mb-80 mr-20 px-10 py-20 md:flex-row flex-col items-center">
         <div className="lg:flex-grow flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
           <code className="accent">
               Hi, my name is
