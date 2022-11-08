@@ -23,6 +23,9 @@ export default function Footer() {
         <h3 class="text-sm text-center text-gray-400 mt-2">
             Designed and Built by Tushar Selvakumar.    
         </h3>
+        <h3 class="text-sm text-center text-gray-400 mt-2">
+            Built with <a href="https://reactjs.org/">ReactJS</a> and <a href="https://flowbite.com/#components">Flowbite Components</a>.    
+        </h3>
     </footer>
     )
 }
