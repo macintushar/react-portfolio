@@ -1,30 +1,21 @@
 export const projects = [
   {
     title: "PyPass Manager",
-    subtitle: "SQLite DB, Python-Django",
+    subtitle: "SQLite DB, Python-Django, RSA",
     description:
-      "Self Hosted, Python-based Password Manager built with Django. This project is SLIGHTLY SECURE. The login for the website is Username-testuser Password-testuserspassword",
+      "Self Hosted, Python-based Password Manager built with Django. It hashes passwords to be stored in a SQLite Database. It is meant to be self hosted by the user.",
     image: "./images/PyPassManager.png",
-    link: "https://py-pass-manager.herokuapp.com/",
+    link: "",
     github:"https://github.com/macintushar/PyPassManager",
   },
   {
-    title: "Stockify",
-    subtitle: "Python CLI, Matplotlib, NumPy, Pandas",
+    title: "SneakerStreet",
+    subtitle: "ViteJS (React), ExpressJS (REST API's), Supabase (PostgreSQL), eCommerce",
     description:
-      "This is a project I made as my Final Project for my School's IP Course. It uses multiple CSV files of various Company's Stock Market data in 2020 to display graphs using Matplotlib. It uses Pandas to organise the data.",
-    image: "./images/Stockify.png",
+      "This website is for an E-Commerce Sneaker Marketplace meant to buy and sell sneakers.",
+    image: "./images/SneakerStreet.png",
     link: "",
-    github:"https://github.com/macintushar/StockMarket-Analysis",
-  },
-  {
-    title: "RevPass",
-    subtitle: "Twilio SMS API, Python-Random, Python CLI",
-    description:
-      "This app generates a code for a safe that will be sent to a registered mobile number.",
-    image: "./images/RevPass.png",
-    link: "",
-    github:"https://github.com/macintushar/RevolvingPassword",
+    github:"https://github.com/macintushar/SneakerStore",
   },
 ];
 
@@ -32,32 +23,37 @@ export const skills = [
   {
     title:"Python",
     color:"gold",
-    size:50,
+    size:60,
   },
   {
     title:"Django",
     color:"darkgreen",
-    size:70,
+    size:65,
   },
   {
-    title:"Flask",
+    title:"Flask (REST)",
     color:"slategray",
     size:60,
   },
   {
     title:"JavaScript",
     color:"yellow",
-    size:20,
+    size:60,
   },
   {
     title:"React",
     color:"deepskyblue",
-    size:40,
+    size:70,
+  },
+  {
+    title:"ExpressJS (REST)",
+    color:"deepskyblue",
+    size:60,
   },
   {
     title:"Front End (HTML & CSS)",
     color:"orange",
-    size:75,
+    size:80,
   },
 ];
 
