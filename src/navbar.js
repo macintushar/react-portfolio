@@ -52,7 +52,7 @@ export default function Navbar({ fixed }) {
               </li>
               <li className="nav-item">
                 <a className="px-3 py-2 flex items-center text-xs uppercase font-bold leading-snug text-white hover:opacity-75" href="./docs/Tushar Selvakumar - Resume.pdf" >
-                  <button className="rounded-lg px-3 py-2 nav-text accent outline outline-2 outline-[#CAD6F8]">Resume</button>
+                  <button className="rounded-lg px-3 py-2 nav-text accent outline outline-2 outline-[#CAD6F8]">Résumé</button>
                 </a>
               </li>
             </ul>
