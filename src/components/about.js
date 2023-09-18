@@ -9,7 +9,7 @@ export default function About() {
             <h1 className="subtitle">* About Me</h1>
           </h1>
           <h3 className="subtitle-light roboto-font font-sans text-lg mb-8 leading-relaxed">
-          Hi, my name is Tushar. I am a 19 Year old. I taught myself Web Development and Python and I love to create projects using my skills. The few things I'm decent at are Coding, Cooking and Photography and I Live Stream events as a side gig. I also have a podcast that I host based on Tech.
+          Hi, my name is Tushar. I taught myself Web Development and Python and I love to create projects using my skills. The few things I'm decent at are Coding, Cooking and Photography. I also have a podcast that I host based on Tech.
           </h3>
         </div>
         <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
