@@ -14,6 +14,15 @@ export const projects = [
     description:
       "This website is for an E-Commerce Sneaker Marketplace meant to buy and sell sneakers.",
     image: "./images/SneakerStreet.png",
+    link: "https://sneaker-street-demo.netlify.app/",
+    github:"https://github.com/macintushar/SneakerStore",
+  },
+  {
+    title: "SPKR - Voice Keyboard",
+    subtitle: "Android (Java), Google Cloud (Translation & Transcription)",
+    description:
+      "SPKR (pronounced Speaker) is a keyboard app for Android that allows users to speak in their language and allows them to translate it into another language to send as text. It also allows users to hear the texts they receive in their language.",
+    image: "./images/SPKR.png",
     link: "",
     github:"https://github.com/macintushar/SneakerStore",
   },
