@@ -24,7 +24,7 @@ export const projects = [
       "SPKR (pronounced Speaker) is a keyboard app for Android that allows users to speak in their language and allows them to translate it into another language to send as text. It also allows users to hear the texts they receive in their language.",
     image: "./images/SPKR.png",
     link: "",
-    github:"https://github.com/macintushar/SneakerStore",
+    github:"https://github.com/macintushar/SPKR-Voice-Keyboard",
   },
 ];
 
